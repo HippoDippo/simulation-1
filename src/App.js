@@ -15,6 +15,7 @@ class App extends Component {
           <h1>SHELFIE</h1>
         </header>
         <p className="App-intro">
+          
           <ShelveChoices />
         </p>
       </div>
@@ -23,4 +24,3 @@ class App extends Component {
 }
 
 export default App;
-

@@ -32,6 +32,8 @@
 .App-intro {
   font-size: large;
 }
+
+/* Used the dot to make that class there */
 .shelf-choices {
   display: flex;
   flex-direction: column;
