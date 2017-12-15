@@ -6,6 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import { HashRouter } from 'react-router-dom';
 
 ReactDOM.render(
+  // HashRouter from react router used below.
   <HashRouter>
     <App /> 
   </HashRouter>,
