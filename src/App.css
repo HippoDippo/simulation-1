@@ -21,8 +21,8 @@
 .App-header h1 {
   font-size: 33px; /* Got some of that awesome font-size to left */
   font-weight: 900; /* Cant forget about that font-weight action either <--- */
-  margin-top: 14px;
-  margin-left: 23px;
+  margin-top: 14px; /* Got some margin there to the left */
+  margin-left: 23px; /* Suh more margin */
 }
 
 .App-title {
@@ -45,8 +45,8 @@
   font-weight: 700;
   color: #fff;
   background-color: #D34735;
-  padding: 17px;
-  margin: 14px;
+  padding: 17px; /* Gotta love that padding */
+  margin: 14px; /* Yet again... more margin */
   width: 500px;
-  border-radius: 5px;
+  border-radius: 5px; /* Used border to the left of ya.. kinda */
 }
