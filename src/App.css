@@ -19,10 +19,10 @@
 }
 
 .App-header h1 {
-  font-size: 33px; /* Got some of that awesome font-size to left */
-  font-weight: 900; /* Cant forget about that font-weight action either <--- */
-  margin-top: 14px; /* Got some margin there to the left */
-  margin-left: 23px; /* Suh more margin */
+  font-size: 33px; /* ID: 23D - Got some of that awesome font-size to left */
+  font-weight: 900; /* ID: 23D - Cant forget about that font-weight action either <--- */
+  margin-top: 14px; /* ID: 24C - Got some margin there to the left */
+  margin-left: 23px; /* ID: 24C - Suh more margin */
 }
 
 .App-title {
@@ -33,22 +33,22 @@
   font-size: large;
 }
 
-/* Used the dot to make that class there */
+/* ID: 22C-2 - Used the dot to make that class there */
 .shelf-choices {
-  display: flex; /* Used display flex to the left (Thanks to FlexZombies). */
-  flex-direction: column; /* Some flex direction action */
-  align-items: center; /*  align items */
-  justify-content: center; /* And the oh so sweet justify content */
+  display: flex; /* ID: 27G - Used display flex to the left (Thanks to FlexZombies). */
+  flex-direction: column; /* ID: 27F - Some flex direction action */
+  align-items: center; /*  ID: 27D - align items */
+  justify-content: center; /* ID: 27C - And the oh so sweet justify content */
 }
 
 
 .shelf-choices h1 {
-  font-size: 23px; /* Some of that awesome font size */
+  font-size: 23px; /* ID: 23D - Some of that awesome font size */
   font-weight: 700;
   color: #fff;
   background-color: #D34735;
-  padding: 17px; /* Gotta love that padding */
+  padding: 17px; /* ID: 24E - Gotta love that padding */
   margin: 14px; /* Yet again... more margin */
   width: 500px;
-  border-radius: 5px; /* Used border to the left of ya.. kinda */
+  border-radius: 5px; /* ID: 24D - Used border to the left of ya.. kinda */
 }
