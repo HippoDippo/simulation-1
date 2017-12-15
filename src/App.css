@@ -35,10 +35,10 @@
 
 /* Used the dot to make that class there */
 .shelf-choices {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  display: flex; /* Used display flex to the left (Thanks to FlexZombies). */
+  flex-direction: column; /* Some flex direction action */
+  align-items: center; /*  align items */
+  justify-content: center; /* And the oh so sweet justify content */
 }
 
 
