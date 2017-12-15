@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './reset.css';
 import './App.css';
 import logo from './assets/logo.png';
+import ShelveChoices from './components/ShelveChoices';
+import { Link, Route} from 'react-router-dom';
+
 class App extends Component {
   render() {
     return (

@@ -32,3 +32,21 @@
 .App-intro {
   font-size: large;
 }
+.shelf-choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.shelf-choices h1 {
+  font-size: 23px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #D34735;
+  padding: 14px;
+  margin: 14px;
+  width: 500px;
+  border-radius: 5px;
+}
