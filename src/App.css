@@ -10,17 +10,17 @@
 }
 
 .App-header {
-  background-color: #AB2A19;
+  background-color: #AB2A19; /* Got some background color action to the left */
   height: 95px;
   padding: 20px;
-  color: white;
+  color: white; /* Some sweet font color to left of ya */
   display: flex;
   align-content: center;
 }
 
 .App-header h1 {
-  font-size: 33px;
-  font-weight: 900;
+  font-size: 33px; /* Got some of that awesome font-size to left */
+  font-weight: 900; /* Cant forget about that font-weight action either <--- */
   margin-top: 14px;
   margin-left: 23px;
 }
