@@ -15,4 +15,4 @@ class ShelveChoices extends Component {
   }
 }
 
-export default ShelveChoices;
+export default ShelveChoices; // Gotta export going down to the left <---

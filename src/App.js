@@ -1,3 +1,4 @@
+// A whole lotta imports used below.
 import React, { Component } from 'react';
 import './reset.css';
 import './App.css';
