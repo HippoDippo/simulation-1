@@ -8,7 +8,7 @@ import ShelveChoices from './components/ShelveChoices';
 class App extends Component {
   render() {
     return (
-      // JSX used here and the ShelveChoices component below.
+      // ID: 36G - JSX used here and the ShelveChoices component below.
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
